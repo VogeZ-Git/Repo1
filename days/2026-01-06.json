@@ -1,1 +1,1 @@
-{"daily":{"Wake up 6am":true,"Drink water":false,"Exercise":false,"Journal":false},"weekly":{"Review Finances":false,"Clean House":false,"Meal Prep":false},"monthly":{"Pay Rent":false,"Deep Clean Fridge":false,"Review Goals":false}}
+{"daily":{"Wake up 6am":true,"Drink water":true,"Exercise":false,"Journal":false},"weekly":{"Review Finances":true,"Clean House":true,"Meal Prep":false},"monthly":{"Pay Rent":false,"Deep Clean Fridge":false,"Review Goals":false}}
