@@ -1,0 +1,18 @@
+{
+  "daily": {
+    "Wake up 6am": true,
+    "Drink water": true,
+    "Exercise": false,
+    "Journal": false
+  },
+  "weekly": {
+    "Review Finances": false,
+    "Clean House": true,
+    "Meal Prep": false
+  },
+  "monthly": {
+    "Pay Rent": true,
+    "Deep Clean Fridge": false,
+    "Review Goals": false
+  }
+}
